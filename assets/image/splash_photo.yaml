@@ -1,0 +1,6 @@
+photos: 
+ - splash:
+   in_filename: splash/splash.png
+   out_filename: tallinn_panorama.jpg
+   license: 
+     type: UNSPECIFIED

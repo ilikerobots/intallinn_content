@@ -1,0 +1,140 @@
+photos: 
+ - airport:
+   in_filename: section/airport-4789.jpg
+   out_filename: airport.jpg
+   license: 
+     type: PUBLIC_DOMAIN
+     author: cam
+     author_url: http://www.openfotos.com/view/waiting-terminal-4747
+ - seaport:
+   in_filename: section/seaport.png
+   out_filename: seaport.jpg
+   license: 
+     type: UNSPECIFIED
+ - public-transport:
+   in_filename: section/public-transport.png
+   out_filename: public-transport.jpg
+   license: 
+     type: UNSPECIFIED
+ - auto-rental:
+   in_filename: section/auto-rental.png
+   out_filename: auto-rental.jpg
+   license: 
+     type: UNSPECIFIED
+ - taxis:
+   in_filename: section/taxis.png
+   out_filename: taxis.jpg
+   license: 
+     type: UNSPECIFIED
+ - bikes:
+   in_filename: section/bikes.png
+   out_filename: bikes.jpg
+   license: 
+     type: UNSPECIFIED
+ - internet:
+   in_filename: section/internet.png
+   out_filename: internet.jpg
+   license: 
+     type: UNSPECIFIED
+ - tallinn-card:
+   in_filename: section/tallinn-card.png
+   out_filename: tallinn-card.jpg
+   license: 
+     type: UNSPECIFIED
+ - safety:
+   in_filename: section/safety.png
+   out_filename: safety.jpg
+   license: 
+     type: UNSPECIFIED
+ - history:
+   in_filename: section/history.png
+   out_filename: history.jpg
+   license: 
+     type: UNSPECIFIED
+ - people:
+   in_filename: section/people.png
+   out_filename: people.jpg
+   license: 
+     type: UNSPECIFIED
+ - climate:
+   in_filename: section/climate.png
+   out_filename: climate.jpg
+   license: 
+     type: UNSPECIFIED
+ - neighborhoods:
+   in_filename: section/neighborhoods.png
+   out_filename: neighborhoods.jpg
+   license: 
+     type: UNSPECIFIED
+ - cuisine:
+   in_filename: section/cuisine.png
+   out_filename: cuisine.jpg
+   license: 
+     type: UNSPECIFIED
+ - currency:
+   in_filename: section/bundles-of-euro-3356.jpg
+   out_filename: currency.jpg
+   license: 
+     type: PUBLIC_DOMAIN
+     author: fwt
+     author_url: http://www.openfotos.com/view/bundles-of-euro-3356
+ - language:
+   in_filename: section/language.png
+   out_filename: language.jpg
+   license: 
+     type: UNSPECIFIED
+ - tourist-office:
+   in_filename: section/tourist-office.png
+   out_filename: tourist-office.jpg
+   license: 
+     type: UNSPECIFIED
+ - parks:
+   in_filename: section/parks.png
+   out_filename: parks.jpg
+   license: 
+     type: UNSPECIFIED
+ - museums:
+   in_filename: section/museums.png
+   out_filename: museums.jpg
+   license: 
+     type: UNSPECIFIED
+ - seasonal-events:
+   in_filename: section/seasonal-events.png
+   out_filename: seasonal-events.jpg
+   license: 
+     type: UNSPECIFIED
+ - walking:
+   in_filename: section/walking.png
+   out_filename: walking-tours.jpg
+   license: 
+     type: UNSPECIFIED
+ - food-and-drink:
+   in_filename: section/food-and-drink.png
+   out_filename: food-and-drink.jpg
+   license: 
+     type: UNSPECIFIED
+ - restaurants:
+   in_filename: section/restaurants.png
+   out_filename: dining.jpg
+   license: 
+     type: UNSPECIFIED
+ - nightlife:
+   in_filename: section/nightlife.png
+   out_filename: nightlife.jpg
+   license: 
+     type: UNSPECIFIED
+ - power:
+   in_filename: section/power.png
+   out_filename: power.jpg
+   license: 
+     type: UNSPECIFIED
+ - destinations-outside-tallinn:
+   in_filename: section/destinations-outside-tallinn.png
+   out_filename: destinations-outside-tallinn.jpg
+   license: 
+     type: UNSPECIFIED
+ - getting-away:
+   in_filename: section/getting-away.png
+   out_filename: getting-away.jpg
+   license: 
+     type: UNSPECIFIED
