@@ -1,5 +1,5 @@
 name: 'in_tallinn_content'
-version: 0.0.1
+version: 0.0.2
 publish_to: none
 description: Content for inTallinn.ee
 author: Mike Hoolehan <mike@hoolehan.com>
@@ -8,7 +8,7 @@ environment:
   sdk: '>=1.0.0 <2.0.0'
 dependencies:
   barback: ">=0.15.2+4"
-  markdown: ">=0.11.1"
+  markdown: ">=0.9.0"
   mustache_no_mirror: ">=0.1.8"
 dev_dependencies:
   browser: '>=0.10.0 <0.11.0'
